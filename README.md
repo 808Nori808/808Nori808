@@ -8,10 +8,4 @@
 
 💪 Estoy utilizando Unity y C# para la implementación del juego, y también estoy trabajando en la creación de gráficos y animaciones.
 
-🚀 Si tienes habilidades en programación, diseño de juegos, arte o música, ¡me encantaría tener tu colaboración en este emocionante proyecto!
-
-🙌 ¡Acompáñame en esta aventura de desarrollo de juegos para móviles y juntos crearemos algo increíble!
-
-¡Gracias por visitar mi perfil de GitHub y sigue jugando!
-
-**Hugo**
+¡Gracias por visitar mi perfil de GitHub!
