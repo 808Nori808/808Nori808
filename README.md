@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola, soy Hugo! 👋
 
-<!--
-**808Nori808/808Nori808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Estudiante de ingeniería en servicios de telecomunicaciones en la UPV, y actualmente, ¡estoy trabajando en un juego para móviles!
 
-Here are some ideas to get you started:
+🔥 Soy un apasionado de la tecnología y los videojuegos, y estoy emocionado de combinar mis dos pasiones en este proyecto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Mi objetivo es crear un juego adictivo para dispositivos móviles que te mantenga enganchado durante horas.
+
+💪 Estoy utilizando Unity y C# para la implementación del juego, y también estoy trabajando en la creación de gráficos y animaciones.
+
+🚀 Si tienes habilidades en programación, diseño de juegos, arte o música, ¡me encantaría tener tu colaboración en este emocionante proyecto!
+
+🙌 ¡Acompáñame en esta aventura de desarrollo de juegos para móviles y juntos crearemos algo increíble!
+
+¡Gracias por visitar mi perfil de GitHub y sigue jugando!
+
+**Hugo**
