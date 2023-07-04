@@ -1,11 +1,7 @@
 # ¡Hola, soy Hugo! 👋
 
-🎮 Estudiante de ingeniería en servicios de telecomunicaciones en la UPV, y actualmente, ¡estoy trabajando en un juego para móviles!
+🎮 Estudiante de ingeniería en servicios de telecomunicaciones en la UPV.
 
-🔥 Soy un apasionado de la tecnología y los videojuegos, y estoy emocionado de combinar mis dos pasiones en este proyecto.
-
-📱 Mi objetivo es crear un juego adictivo para dispositivos móviles que te mantenga enganchado durante horas.
-
-💪 Estoy utilizando Unity y C# para la implementación del juego, y también estoy trabajando en la creación de gráficos y animaciones.
+![Logo del proyecto]((https://gre.webs.upv.es/wp-content/uploads/2019/01/Logo_UPV.png))
 
 ¡Gracias por visitar mi perfil de GitHub!
